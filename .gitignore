@@ -8,3 +8,13 @@ moonraker.asvc
 misc/usb.ids
 .moonraker.uuid
 .theme/
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+bowden_load_lengths.csv
+bowden_unload_lengths.csv
+*.zip
